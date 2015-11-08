@@ -1,4 +1,4 @@
-# seattreat
+# SeatTreat (Java backend)
 
 Hack for the thack Hamburg October 16- 18 2015.
 
